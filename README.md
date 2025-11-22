@@ -8,12 +8,12 @@ Este repositório contém o código fonte do firmwareda placa de controle
 
 ## Funcionalidades Principais
 
-✅ Leitura de tensão e corrente do sistema.  
-✅ Cálculo contínuo da potência elétrica consumida.  
-✅ Controle automático via PID aplicado ao PWM do ESC.  
-✅ Comunicação serial USB com protocolo estruturado.  
-✅ Armazenamento de parâmetros em EEPROM externa.
-✅ Registro de dados em cartão SD. 
+- Leitura de tensão e corrente do sistema.  
+- Cálculo contínuo da potência elétrica consumida.  
+- Controle automático via PID aplicado ao PWM do ESC.  
+- Comunicação serial USB com protocolo estruturado.  
+- Armazenamento de parâmetros em EEPROM externa.
+- Registro de dados em cartão SD. 
 
 ---
 
