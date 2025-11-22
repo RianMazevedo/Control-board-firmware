@@ -15,6 +15,7 @@ Este repositório contém o código fonte do firmwareda placa de controle
 ✅ Armazenamento de parâmetros em EEPROM externa.
 ✅ Registro de dados em cartão SD. 
 
+
 ---
 
 ## Microcontrolador Utilizado
